@@ -1,0 +1,19 @@
+
+
+
+
+1. https://github.com/kumaransg/LLD
+2. https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/LowLevelDesign.md
+3. https://github.com/anomaly2104
+4. https://github.com/niteshkumartiwari/LLD-Practice
+
+
+
+
+
+
+Extra
+
+HLD - https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/SystemDesign.md
+
+HLD cheatsheet - https://www.linkedin.com/feed/update/urn:li:activity:7188480776374501376?utm_source=share&utm_medium=member_android
